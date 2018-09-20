@@ -1,0 +1,76 @@
+{
+  "data": [
+    {
+      "id": "1",
+      "reps": "1",
+      "percentage":".1",
+      "weight": "10"
+    },    
+    {
+      "id": "2",
+      "reps": "2",
+      "percentage":".95",
+      "weight": "9.5"
+    },
+    {
+      "id": "3",
+      "reps": "3",
+      "percentage":".93",
+      "weight": "9.3"
+    },
+    {
+      "id": "4",
+      "reps": "4",
+      "percentage":".9",
+      "weight": "9"
+    },
+    {
+      "id": "5",
+      "reps": "5",
+      "percentage":".87",
+      "weight": "8.7"
+    },
+    {
+      "id": "6",
+      "reps": "6",
+      "percentage":".85",
+      "weight": "8.5"
+    },
+    {
+      "id": "7",
+      "reps": "7",
+      "percentage":".83",
+      "weight": "8.3"
+    },
+    {
+      "id": "8",
+      "reps": "8",
+      "percentage":".8",
+      "weight": "8"
+    },
+    {
+      "id": "9",
+      "reps": "9",
+      "percentage":".77",
+      "weight": "7.7"
+    },
+    {
+      "id": "10",
+      "reps": "10",
+      "percentage":".75",
+      "weight": "7.5"
+    },
+    {
+      "id": "11",
+      "reps": "11",
+      "percentage":".73",
+      "weight": "7.3"
+    },
+    {
+      "id": "12",
+      "reps": "12",
+      "percentage":".7",
+      "weight": "7"
+    }
+  ]
+}
