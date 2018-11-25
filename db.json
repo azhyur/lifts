@@ -1,5 +1,5 @@
 {
-  "data": [
+  "loadChart": [
     {
       "id": "1",
       "reps": "1",
@@ -71,6 +71,107 @@
       "reps": "12",
       "percentage":".7",
       "weight": "7"
+    }
+  ],
+  "exercises": [
+    {
+      "exercise": "BB Deadlift"
+    },
+    {
+      "exercise": "BB Full Squat"
+    },
+    {
+      "exercise": "BB Military Press"
+    },
+    {
+      "exercise": "BB Shrug"
+    },
+    {
+      "exercise": "Clean"
+    },
+    {
+      "exercise": "Clean And Jerk"
+    },
+    {
+      "exercise": "DB Clean"
+    },
+    {
+      "exercise": "DB Hang Clean"
+    },
+    {
+      "exercise": "DB Snatch"
+    },
+    {
+      "exercise": "Front Squat"
+    },
+    {
+      "exercise": "Hang Clean"
+    },
+    {
+      "exercise": "Hang Jump Shrug"
+    },
+    {
+      "exercise": "Hang Power Clean"
+    },
+    {
+      "exercise": "Hang Power Snatch"
+    },
+    {
+      "exercise": "Hang Pull"
+    },
+    {
+      "exercise": "Hang Snatch"
+    },
+    {
+      "exercise": "High Pull"
+    },
+    {
+      "exercise": "Jump Shrug"
+    },
+    {
+      "exercise": "KB Clean"
+    },
+    {
+      "exercise": "KB Clean And Jerk"
+    },
+    {
+      "exercise": "KB Snatch"
+    },
+    {
+      "exercise": "Overhead Squat"
+    },
+    {
+      "exercise": "Power Clean"
+    },
+    {
+      "exercise": "Power Clean Jerk"
+    },
+    {
+      "exercise": "Power Snatch"
+    },
+    {
+      "exercise": "Press Under"
+    },
+    {
+      "exercise": "Push Press"
+    },
+    {
+      "exercise": "Push Press Behind Neck"
+    },
+    {
+      "exercise": "Quick Drop"
+    },
+    {
+      "exercise": "Romanian Deadlift"
+    },
+    {
+      "exercise": "Snatch"
+    },
+    {
+      "exercise": "Split Jerk"
+    },
+    {
+      "exercise": "Split Jerk Behind Neck"
     }
   ]
 }
